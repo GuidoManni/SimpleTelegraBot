@@ -16,7 +16,7 @@ The `STB` class provides an easy interface to send text messages, images, and fi
 1. Clone the repository.
 2. Install the required packages:
     ```bash
-    pip install requests pillow
+    pip install -r requirements.txt
     ```
 3. Create an instance of the `STB` class with your bot token and user ID.
 4. Use the provided methods to send messages, images, and files.
