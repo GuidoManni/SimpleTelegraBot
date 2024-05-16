@@ -1,4 +1,4 @@
-# SimpleTelegraBot
+# SimpleTelegramBot
 This repository contains a simple Python class named `STB` for interacting with the Telegram Bot API. It allows you to send messages, images, and files to a specified user.
 
 ## Description
